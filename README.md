@@ -1,16 +1,25 @@
-# github_profile_finder
+# Github Profile Finder
 
-A Github Profile Finder
+A simple Github profiler that allows users to search and display Github profiles. The app shows details such as the user's name, number of public repositories, gists, and more. Additionally, users can directly navigate to the Github profile via a button.
 
-## Getting Started
+## 🎯 Features
 
-This project is a starting point for a Flutter application.
+- Search for Github users by username.
+- Displays details like name, number of repositories, and gists.
+- Direct navigation to the Github profile with a button.
+- Intuitive user interface with a modern design.
+- Supports opening external links in the browser.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*Add screenshots of the app here if available.*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation and Running
+
+### 1. Prerequisites
+- Flutter SDK (Version 3.0.0 or newer)
+- Internet connection
+
+### 2. Clone the Repository
+```bash
+git clone https://github.com/<your-username>/github-profile-finder.git
